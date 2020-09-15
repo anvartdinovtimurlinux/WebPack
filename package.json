@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/homutovan/AJS_1_2_1_modules.git"
+    "url": "git+https://github.com/anvartdinovtimurlinux/Webpack.git"
   },
   "bugs": {
-    "url": "https://github.com/homutovan/AJS_1_2_1_modules/issues"
+    "url": "https://github.com/anvartdinovtimurlinux/Webpack/issues"
   },
-  "homepage": "https://github.com/homutovan/AJS_1_2_1_modules#readme",
-  "author": "homutovan",
+  "homepage": "https://github.com/anvartdinovtimurlinux/Webpack#readme",
+  "author": "Anvartdinov Timur",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
